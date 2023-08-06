@@ -15,11 +15,13 @@
 ## Cources
 ---
 -  [JavaScript: From First Steps to Professional](https://frontendmasters.com/courses/javascript-first-steps/)
+
 -  [JavaScript: The Hard Parts, v2](https://frontendmasters.com/courses/javascript-first-steps/)
+
 -  [Deep-Javascript-Foundation] (https://frontendmasters.com/courses/deep-javascript-v3/)
 
 Deep JavaScript Foundations, v3
-##  coding exercises
+##  Coding exercises
 ---
 
 
