@@ -38,4 +38,4 @@
 
 
 ## Content
-- [JavaScript: From First Steps to Professional] 
+- [JavaScript: From First Steps to Professional](./JavaScript - Course 1.md)
