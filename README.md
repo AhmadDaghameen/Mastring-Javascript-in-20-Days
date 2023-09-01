@@ -18,7 +18,7 @@
 
 -  [JavaScript: The Hard Parts, v2](https://frontendmasters.com/courses/javascript-first-steps/)
 
--  [Deep-Javascript-Foundation] (https://frontendmasters.com/courses/deep-javascript-v3/)
+-  [Deep-Javascript-Foundation](https://frontendmasters.com/courses/deep-javascript-v3/)
 
 
 ##  Coding exercises
