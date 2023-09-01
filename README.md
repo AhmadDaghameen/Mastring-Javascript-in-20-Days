@@ -20,7 +20,7 @@
 
 -  [Deep-Javascript-Foundation] (https://frontendmasters.com/courses/deep-javascript-v3/)
 
-Deep JavaScript Foundations, v3
+
 ##  Coding exercises
 ---
 
@@ -29,3 +29,13 @@ Deep JavaScript Foundations, v3
 
 ## Challenges
 ---
+- Compound Assignment With Augmented Multiplication
+- 
+- 
+
+
+
+
+
+## Content
+- [JavaScript: From First Steps to Professional] 
