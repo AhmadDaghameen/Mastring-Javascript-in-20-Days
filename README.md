@@ -38,4 +38,4 @@
 
 
 ## Content
-- [JavaScript: From First Steps to Professional](./JavaScript - Course 1.md)
+- [JavaScript: From First Steps to Professional](https://github.com/AhmadDaghameen/Mastring-Javascript-in-20-Days/blob/main/JavaScript%20-%20Course%201.md)
